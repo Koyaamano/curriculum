@@ -2,7 +2,10 @@
 （１）MACアドレス：AAAA.AAAA.AAAA
 インターフェースID：a8 aa aa  ff fe aa aa aa 
 （２）MACアドレス：9876.5432.10FE
-インターフェースID：60 76 54 ff fe 32 10 fe
+インターフェースID：9a 76 54 ff fe 32 10 fe
 （３）MACアドレス：FFFF.FFFF.FFFF
 インターフェースID：fd ff ff ff fe ff ff ff
 
+
+10011010
+9a
